@@ -1,6 +1,6 @@
 <?php
 
- $Willem = array("Voornaam" => "Willem", "Achternaam" => "Alexander", "Leeftijd" => 53, "Klas" => "9G");
+ $Willem = array("Voornaam" => "Willem", "Achternaam" => "Alexander", "Leeftijd" => 53, "Opleiding" => "ICT");
 
 
- echo "Gegevens Muhammad: Voornaam: " . $Willem["Voornaam"] . " Achternaam: ".$Willem["Achternaam"] . " Leeftijd: " . $Willem["Leeftijd"] . " opleiding: " . $Willem["Software Ontwikkeling"];
+ echo "Gegevens WIllem: Voornaam: " . $Willem["Voornaam"] . " Achternaam: ".$Willem["Achternaam"] . " Leeftijd: " . $Willem["Leeftijd"] . " Opleiding: " . $Willem["Opleiding"];
