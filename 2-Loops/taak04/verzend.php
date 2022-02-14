@@ -12,7 +12,7 @@ echo "<ul>";
 
 echo"<br>";
 
-echo "Succes met je opleiding "
+echo "doe je best op je opleiding. "
 
 ?>;
 
